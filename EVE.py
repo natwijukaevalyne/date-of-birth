@@ -1,3 +1,7 @@
+#NATWIJUKA EVALYNE
+#16/U/945
+#BELE
+
 import datetime,calendar
 current_year = 2017
 date = input("Enter your date of birth (1-31)\n")
